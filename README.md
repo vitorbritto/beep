@@ -1,4 +1,7 @@
-beep
-====
+# Beep
 
-An adaptive module for tictac forked from play.js
+An adaptive module of [play.js](https://github.com/Marak/play.js) for [tictac](https://github.com/vitorbritto/tictac).
+
+### Credits
+
+All credit goes to [Marak](https://github.com/Marak)
